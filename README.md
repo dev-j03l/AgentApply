@@ -13,7 +13,7 @@ AgentApply is a modular command-line tool that:
 
 ## ⚙️ Features
 
-✅ Job scraping
+✅ Job scraping  
 ✅ Resume/profile ingestion  
 ✅ GPT-powered job matching  
 ✅ Personalized application advice  
